@@ -1,0 +1,8 @@
+# Sample Commit Messages
+
+init: add scaffold structure
+ch3: numpy arrays + pandas dataframes
+ch4: EDA analysis + plots
+ch5: feature engineering & selection
+ch6: baseline regression & classification models
+ch7: evaluation metrics demo
